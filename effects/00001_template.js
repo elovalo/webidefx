@@ -4,5 +4,5 @@ function init(cube) {
 
 function effect(cube, vars) {
 	cube().on();
-    // this works!
+    // this works! too!
 }
