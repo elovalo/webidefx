@@ -3,5 +3,5 @@ function init(cube) {
 }
 
 function effect(cube, vars) {
-	bar
+	cube().on();
 }
